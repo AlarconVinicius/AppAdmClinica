@@ -20,7 +20,7 @@
     <nav class="navbar navbar-dark bg-dark">
       <a class="navbar-brand" href="home.php">
         <img src="img/logo.png" width="40" height="30" class="d-inline-block align-top" alt="">
-        Clínica Dra. Carolina Vianna
+        Clínica Dra. Maria Joana
       </a>
       <ul class="navbar-nav">
         <li class="nav-item">
